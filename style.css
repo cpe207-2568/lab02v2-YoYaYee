@@ -1,0 +1,63 @@
+.center{
+  text-align: center;
+}
+.myport{ /*สี font myport*/
+  color: rgb(255, 0, 0);
+  font-size: 75px;
+  font-weight: bold;
+  font-family: "WDXL Lubrifont SC", sans-serif;
+}
+.bdmyport{ /*กรอบ myport*/
+  color: rgb(255, 0, 0);
+  border-bottom: 5px solid rgba(255, 0, 0, 0.5);
+  padding: 7.5px;
+  border-top: 5px solid red;
+  border-radius: 40px;
+}
+body{ /*พื้นหลังเว็บ*/
+  background-color: #1e1e1e; 
+}
+.bdmenu{ /*กรอบ menu*/
+  text-decoration: none;
+  border-style: outset;
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 7.5px; 
+  margin: 7.5px;
+  border-radius: 8px;
+}
+.bdmenu2{ /*กรอบ menu แบบกด*/
+  text-decoration: none;
+  border-style: outset;
+  background-color: rgba(255, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+  padding: 7.5px; 
+  margin: 7.5px;
+  border-radius: 8px;
+}
+.font{
+  font-family: "WDXL Lubrifont SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+img{
+  margin-left: auto; 
+  display: block; 
+  margin-right: auto; 
+  width: 300px; 
+  height: 300px; 
+  padding: 5px;
+  border-radius: 30%;
+}
+.bdskill{ /*กรอบ skill*/
+  text-decoration: none;
+  border-style: outset;
+  background-color: rgba(255, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+  width: 500px;
+  padding: 7.5px; 
+  margin: 7.5px;
+  border-radius: 8px;
+  margin-left: auto; 
+  margin-right: auto; 
+}
