@@ -40,15 +40,6 @@ body{ /*พื้นหลังเว็บ*/
   font-weight: 400;
   font-style: normal;
 }
-img{
-  margin-left: auto; 
-  display: block; 
-  margin-right: auto; 
-  width: 300px; 
-  height: 300px; 
-  padding: 5px;
-  border-radius: 30%;
-}
 .bdskill{ /*กรอบ skill*/
   text-decoration: none;
   border-style: outset;
